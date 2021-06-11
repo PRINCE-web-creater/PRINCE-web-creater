@@ -13,7 +13,7 @@ hi, I am <font color =blue>Prince</font><br>
 
 I am in class 8‘E’ in DAV public school koyla nagar Dhanbad<br>
 
-<b>address</b>~co-operative colony, Dhanbad
+<b>Address</b>~co-operative colony, Dhanbad
 
 </body>
 
